@@ -54,9 +54,11 @@
 
 ## Output:
 
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/6e595de6-072a-4ad9-8423-57d5b4480461" />
 
-### Name:
-### Register Number: 
+
+### Name: A PRANEYA
+### Register Number: 212224110045
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
